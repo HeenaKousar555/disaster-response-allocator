@@ -9,6 +9,9 @@ Disaster Response Allocator is a web-based dashboard developed to organize disas
 The project focuses on incident reporting, priority monitoring, incident resolution, and emergency resource tracking.
 
 This project is being developed as part of my learning journey in web development and AI & Machine Learning.
+## 📸 Project Preview
+
+![Disaster Response Allocator Dashboard](dashboard.png)
 
 ## ✨ Features
 
